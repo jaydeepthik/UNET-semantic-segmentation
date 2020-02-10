@@ -1,5 +1,5 @@
 # UNET-semantic-segmentation
-This repository contains code for implementation of the **UNET architecture** for *semantic segmentation*.
+This repository contains code for implementation of the [**UNET architecture**](https://arxiv.org/pdf/1505.04597.pdf) for *semantic segmentation*.
 
 ## Dataset
 The dataset is from the [**TGS Salt identification challange on Kaggle.**](https://www.kaggle.com/c/tgs-salt-identification-challenge/data)
